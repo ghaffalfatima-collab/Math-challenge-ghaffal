@@ -1,0 +1,11 @@
+Math Challenge 3AC — مشروع APK
+
+هذا مشروع مصدر Android وليس APK جاهزاً.
+لإنتاج APK يلزم تشغيل البناء على خدمة Android/Gradle (مثل GitHub Actions).
+
+على GitHub: ضع محتويات هذا المجلد في مستودع جديد (بما فيها .github/workflows/build-apk.yml).
+من تبويب Actions شغّل Build Android APK عبر Run workflow.
+بعد النجاح افتح آخر تشغيل وحمّل MathChallenge3AC-debug-APK من Artifacts.
+افتح الملف المضغوط الذي تم تنزيله واستخرج app-debug.apk ثم ثبّته على هاتفك بعد التحقق من مصدره.
+هذا APK تجريبي (debug) للاختبار، وليس ملف النشر على Play Store.
+لا تضع بيانات شخصية للتلاميذ في مستودع عام.
